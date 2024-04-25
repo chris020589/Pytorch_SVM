@@ -19,9 +19,7 @@ Classification Report:
         True       0.86      0.93      0.90        60
 
     accuracy                           0.86        96
-    
    macro avg       0.87      0.84      0.85        96
-   
 weighted avg       0.87      0.86      0.86        96
 
 ![image](https://github.com/chris020589/Pytorch_SVM/assets/111472484/d771de5c-f9bb-440e-8cec-a4c4def87d7b)
