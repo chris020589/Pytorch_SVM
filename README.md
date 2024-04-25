@@ -1,6 +1,6 @@
-Support Vector Machines
+使用支持向量機模型
 
-Support Vector Machines (SVMs) with RBF Kernel
+使用 RBF 核函數
 
 Stochastic Gradient Descent (SGD)
 
