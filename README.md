@@ -3,6 +3,7 @@
 使用 RBF 核函數
 
 Stochastic Gradient Descent (SGD)
+
 Result：
 
 Accuracy: 0.8645833333333334
